@@ -1,9 +1,26 @@
 ## 👋 Hi, I’m João Guilherme, but you can call me Camarota...
 I'm a Computer Engineering Student at UFG (Federal University of Goiás) and an intern at the legislative assembly of goias. Used to work with web aplications but passionate about artificial intelligence.
-- 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+## 🛠 Languages and Tools
+
+#### Languages:
+
+![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+
+#### Frontend:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Frameworks:
+
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+## 💻 Coding Stats
+
+![Camarota-234's GitHub stats](https://github-readme-stats.vercel.app/api?username=camarota-234&show_icons=true&theme=radical)
 
 <!---
 Camarota-234/Camarota-234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
