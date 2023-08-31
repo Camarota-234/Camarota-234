@@ -20,12 +20,10 @@ I'm a Computer Engineering Student at UFG (Federal University of Goiás) and an 
 
 ## 💻 Coding Stats
 
-<a href="https://github.com/camarota-234/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=camarota-234&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/camarota-234/convoychat">
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=camarota-234&theme=transparent" />
-</a>
+<p align = 'center'>
+    <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=camarota-234&show_icons=true&theme=transparent' width='380'/>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=camarota-234&theme=transparent' width='400'>
+</p>
 
 
 
