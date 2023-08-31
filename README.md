@@ -20,8 +20,8 @@ I'm a Computer Engineering Student at UFG (Federal University of Goiás) and an 
 
 ## 💻 Coding Stats
 
-![Camarota-234's GitHub stats](https://github-readme-stats.vercel.app/api?username=camarota-234&show_icons=true&theme=radical)
-
+![Camarota-234's GitHub stats](https://github-readme-stats.vercel.app/api?username=camarota-234&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=camarota-234&theme=transparent)](https://git.io/streak-stats)
 <!---
 Camarota-234/Camarota-234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
