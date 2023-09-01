@@ -5,7 +5,7 @@ I'm a Computer Engineering Student at UFG (Federal University of Goiás) and an 
 
 #### Languages:
 <p align= 'left'>
-    <!-- <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'> --->
+    <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'>
     <img src='https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'>
     <img src='https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white'>
 </p>
@@ -19,12 +19,18 @@ I'm a Computer Engineering Student at UFG (Federal University of Goiás) and an 
 #### Frameworks:
 
 <p align= 'left'>
-    <img src='https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white'>
+    <img src='https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white'>
     <img src='https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white'>
 </p>
 
-## 💻 Coding Stats
+#### Learning:
 
+<p align= 'left'>
+    <img src='https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white'>
+</p>
+
+## 💻 Coding Stats
+<br>
 <p align = 'left'>
     <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=camarota-234&show_icons=true&theme=transparent' width='380'/>
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=camarota-234&theme=transparent' width='400'>
