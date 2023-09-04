@@ -34,7 +34,7 @@ I'm a Computer Engineering Student at UFG (Federal University of Goiás) and an 
 <br>
 <p align = 'left'>
     <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=camarota-234&show_icons=true&theme=transparent' width='380'/>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=camarota-234&theme=transparent' width='400'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=camarota-234&show_icons=true&theme=transparent' width='400'>
 </p>
 
 
