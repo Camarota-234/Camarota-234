@@ -28,12 +28,13 @@ I'm a Computer Engineering Student at UFG (Federal University of Goiás) and an 
 
 <p align= 'left'>
     <img src='https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'>
+    <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'>
 </p>
 
 ## 💻 Coding Stats
 <br>
 <p align = 'left'>
-    <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=camarota-234&show_icons=true&theme=transparent' width='380'/>
+    <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=camarota-234&show_icons=true&theme=transparent' width='380'>
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=camarota-234&show_icons=true&theme=transparent' width='400'>
 </p>
 
