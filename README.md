@@ -27,8 +27,8 @@ I'm a Computer Engineering Student at UFG (Federal University of Goiás) and an 
 #### Learning:
 
 <p align= 'left'>
-    <img src='https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'>
     <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'>
+    <img src='https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'>
 </p>
 
 ## 💻 Coding Stats
