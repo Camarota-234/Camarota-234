@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m João Guilherme, but you can call me Camarota...
-I'm a Computer Engineering Student at UFG (Federal University of Goiás) and an intern at the legislative assembly of goias. Used to work with web aplications but passionate about artificial intelligence.
+I'm a Computer Engineering Student at UFG (Federal University of Goiás) and an intern at the legislative assembly of goias. Always ready to learn new things and passionate about artificial intelligence.
 
 ## 🛠 Languages and Tools
 
