@@ -26,14 +26,14 @@ I'm a Computer Engineering Student at UFG (Federal University of Goiás) and a f
     <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'>
     <img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
 </p>
-
+<!---
 ## 💻 Coding Stats
 <br>
 <p align = 'left'>
     <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=camarota-234&show_icons=true&theme=transparent' width='380' height=200>
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=camarota-234&show_icons=true&theme=transparent' width='400' height=200>
 </p>
-
+--->
 
 
 <!---
